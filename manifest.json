@@ -1,0 +1,12 @@
+{
+    "name": "Word Meaning Finder",
+    "version": "1.0.0",
+    "description": "Find the meaning of any word in the browser",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "storage"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    }
+
+}
